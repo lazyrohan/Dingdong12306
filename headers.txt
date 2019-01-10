@@ -1,0 +1,50 @@
+request header:
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: 
+tk=u3DkTjvrM7iemcvOEqpVylfjuhZ-IHUSrwr2r0; 
+JSESSIONID=1B7DD00D236563C992EED94A96BDC664; 
+_jc_save_wfdc_flag=dc; 
+_jc_save_fromStation=%u6DF1%u5733%2CSZQ; 
+BIGipServerotn=267387402.64545.0000; 
+RAIL_EXPIRATION=1546667470896; 
+RAIL_DEVICEID=YJbzZ7OW6dszBEFhSoHmPAh2JoelEI4u7bSD5L0AD3CvcFvaiXNStdQ6QbMyh9ht1RbWcNbpGcBGdKutD8I0eWky9a_8L3_gSE3DMrwU_eX1fgc4DJ0g5l_kXItt6l3dCBTgFVnPEkSX2AnAJVTa5isM2uscFkXZ; 
+BIGipServerpool_passport=334299658.50215.0000; 
+route=495c805987d0f5c8c84b14f60212447d; 
+_jc_save_toStation=%u6B66%u7A74%2CWXN; 
+_jc_save_fromDate=2019-01-31; 
+_jc_save_toDate=2019-01-02; 
+current_captcha_type=Z
+Host: kyfw.12306.cn
+If-Modified-Since: 0
+Referer: https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Url:
+Request URL: https://kyfw.12306.cn/otn/leftTicket/queryZ?leftTicketDTO.train_date=2019-01-31&leftTicketDTO.from_station=SZQ&leftTicketDTO.to_station=WXN&purpose_codes=ADULT
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 58.216.109.187:443
+Referrer Policy: no-referrer-when-downgrade
+
+request header:
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+Connection: keep-alive
+Content-Length: 0
+Cookie: JSESSIONID=7CAD9F9B5C7B77B8986F30CEB97EF428; tk=ko5pPl9idp-tnDv30RDQAb_4LdevMvsZjnr2r0; _jc_save_wfdc_flag=dc; _jc_save_fromStation=%u6DF1%u5733%2CSZQ; BIGipServerotn=267387402.64545.0000; RAIL_EXPIRATION=1546667470896; RAIL_DEVICEID=YJbzZ7OW6dszBEFhSoHmPAh2JoelEI4u7bSD5L0AD3CvcFvaiXNStdQ6QbMyh9ht1RbWcNbpGcBGdKutD8I0eWky9a_8L3_gSE3DMrwU_eX1fgc4DJ0g5l_kXItt6l3dCBTgFVnPEkSX2AnAJVTa5isM2uscFkXZ; BIGipServerpool_passport=334299658.50215.0000; route=495c805987d0f5c8c84b14f60212447d; _jc_save_toStation=%u6B66%u7A74%2CWXN; _jc_save_fromDate=2019-01-31; _jc_save_toDate=2019-01-02; current_captcha_type=Z
+Host: kyfw.12306.cn
+Origin: https://kyfw.12306.cn
+Referer: https://kyfw.12306.cn/otn/leftTicket/init?linktypeid=dc
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Url:
+Request URL: https://kyfw.12306.cn/otn/confirmPassenger/getPassengerDTOs
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 58.216.109.187:443
+Referrer Policy: no-referrer-when-downgrade
